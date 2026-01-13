@@ -1,6 +1,10 @@
 # 3D Video effects for Comfyui
 Convert videos to 3D Anaglyph, 3D Pop, Pulfrich, SBS VR
 
+These nodes enabled you to convert videos and images to different 3D effects.
+
+Please watch the tutorial below, as it informs you what all the settings are.
+
 
 **Install**
 
