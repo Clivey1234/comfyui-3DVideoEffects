@@ -17,6 +17,8 @@ cd comfyui-3DVideoEffects
 python -m pip install -r requirements.txt
 
 
+**In the comfyui manager install ComfyUI-GIMM-VFI**
+
 
 
 **VHS Meta Batch Manager:**
