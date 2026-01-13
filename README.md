@@ -17,7 +17,7 @@ cd comfyui-3DVideoEffects
 python -m pip install -r requirements.txt
 
 
-**In the comfyui manager install ComfyUI-GIMM-VFI**
+**In the comfyui manager install ComfyUI-GIMM-VFI**  as well as the other mnissing nodes.  THe GIMM one wont appear as a missing node, so install it via the manager
 
 
 
