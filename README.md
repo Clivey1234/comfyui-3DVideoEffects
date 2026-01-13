@@ -12,6 +12,13 @@ CMD into your ComfyUI\custom_nodes folder
 
 git clone https://github.com/Clivey1234/comfyui-3DVideoEffects.git
 
+cd comfyui-3DVideoEffects
+
+python -m pip install -r requirements.txt
+
+
+
+
 **VHS Meta Batch Manager:**
 
 If you get an issue with the VHS Meta Batch Manager from the video helper suite (a 3rd party tool) and udapting it doesnt work, 
