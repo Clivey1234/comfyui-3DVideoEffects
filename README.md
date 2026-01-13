@@ -17,7 +17,7 @@ cd comfyui-3DVideoEffects
 python -m pip install -r requirements.txt
 
 
-**In the comfyui manager install ComfyUI-GIMM-VFI**  as well as the other mnissing nodes.  THe GIMM one wont appear as a missing node, so install it via the manager
+**In the comfyui manager install the missing nodes** If the Ease In Out node causes and error, it maybe because you downloaded the older workflow, in which case install the **ComfyUI-GIMM-VFI** from the comfy manager and restart comfy
 
 
 
