@@ -10,9 +10,7 @@ Please watch the tutorial below, as it informs you what all the settings are.
 
 CMD into your ComfyUI\custom_nodes folder
 
-git clone https://github.com/Clivey1234/Comfy-URN-Arcade-Games.git
-
-No Requirments needed
+git clone https://github.com/Clivey1234/comfyui-3DVideoEffects.git
 
 
 [![Watch the video](https://github.com/Clivey1234/comfyui-3DVideoEffects/blob/main/title.png)](https://youtu.be/UVPfumLTngk)
