@@ -10,25 +10,9 @@ Please watch the tutorial below, as it informs you what all the settings are.
 
 CMD into your ComfyUI\custom_nodes folder
 
-git clone https://github.com/Clivey1234/comfyui-3DVideoEffects.git
+git clone https://github.com/Clivey1234/Comfy-URN-Arcade-Games.git
 
-cd comfyui-3DVideoEffects
-
-python -m pip install -r requirements.txt
-
-
-**In the comfyui manager install the missing nodes** If the Ease In Out node causes and error, it maybe because you downloaded the older workflow, in which case install the **ComfyUI-GIMM-VFI** from the comfy manager and restart comfy
-
-
-
-**VHS Meta Batch Manager:**
-
-If you get an issue with the VHS Meta Batch Manager from the video helper suite (a 3rd party tool) and udapting it doesnt work, 
-
-there is a replacement file in the worflow folder called VHS Util.zip. unzip the overwrite the utils.py in the 
-
-custom_nodes\comfyui-videohelpersuite\videohelpersuite
-
+No Requirments needed
 
 
 [![Watch the video](https://github.com/Clivey1234/comfyui-3DVideoEffects/blob/main/title.png)](https://youtu.be/UVPfumLTngk)
